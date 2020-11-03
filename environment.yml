@@ -1,0 +1,19 @@
+name: nist-frvt-analysis
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.7
+  - pip
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - matplotlib
+  - nb_conda
+  - numpy
+  - pandas
+  - pandas-profiling
+  - seaborn
+  - tabulate
