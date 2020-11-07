@@ -12,7 +12,8 @@ conda env create --file environment.yml
 
 Clone the NIST FRVT repository containing the algorithm report cards. Note that the report cards are not in the `main` branch of the repository.
 ```shell
-git clone --depth 1 --single-branch --branch nist-pages https://github.com/usnistgov/frvt.git frvt_pages
+git clone --depth 1 --single-branch --branch nist-pages \
+https://github.com/usnistgov/frvt.git frvt_pages
 ```
 
 ## Analysis notebooks
