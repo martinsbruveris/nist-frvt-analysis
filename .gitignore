@@ -1,3 +1,6 @@
+# Repository with NIST report cards
+frvt_pages
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
